@@ -1,0 +1,24 @@
+﻿
+<?/*PDO / sql_db	2022-12-19 19:33:30	79.103.25.181@alerts.smartiscity.gr (/index.php?)	 	connection open	SQLSTATE[HY000] [1045] Access denied for user 'sm_alerts_dbuser'@'localhost' (using password: YES)*/?>
+<?/*PDO / sql_db	2022-12-19 19:33:32	79.103.25.181@alerts.smartiscity.gr (/index.php?)	 	connection open	SQLSTATE[HY000] [1045] Access denied for user 'sm_alerts_dbuser'@'localhost' (using password: YES)*/?>
+<?/*PDO / sql_db	2022-12-19 19:33:33	79.103.25.181@alerts.smartiscity.gr (/index.php?)	 	connection open	SQLSTATE[HY000] [1045] Access denied for user 'sm_alerts_dbuser'@'localhost' (using password: YES)*/?>
+<?/*PDO / sql_db	2022-12-19 19:33:33	79.103.25.181@alerts.smartiscity.gr (/index.php?)	 	connection open	SQLSTATE[HY000] [1045] Access denied for user 'sm_alerts_dbuser'@'localhost' (using password: YES)*/?>
+<?/*PDO / sql_db	2022-12-19 19:33:34	79.103.25.181@alerts.smartiscity.gr (/index.php?)	 	connection open	SQLSTATE[HY000] [1045] Access denied for user 'sm_alerts_dbuser'@'localhost' (using password: YES)*/?>
+<?/*PDO / sql_db	2022-12-19 19:34:08	54.217.154.232@alerts.smartiscity.gr (/index.php?)	 	connection open	SQLSTATE[HY000] [1045] Access denied for user 'sm_alerts_dbuser'@'localhost' (using password: YES)*/?>
+<?/*PDO / sql_db	2022-12-19 19:34:44	79.103.25.181@alerts.smartiscity.gr (/index.php?)	 	connection open	SQLSTATE[HY000] [1045] Access denied for user 'sm_alerts_dbuser'@'localhost' (using password: YES)*/?>
+<?/*PDO / sql_db	2022-12-19 19:34:47	79.103.25.181@alerts.smartiscity.gr (/index.php?)	 	connection open	SQLSTATE[HY000] [1045] Access denied for user 'sm_alerts_dbuser'@'localhost' (using password: YES)*/?>
+<?/*PDO / sql_db	2022-12-19 19:35:46	79.103.25.181@alerts.smartiscity.gr (/index.php?)	 	connection open	SQLSTATE[HY000] [1045] Access denied for user 'sm_alerts_dbuser'@'localhost' (using password: YES)*/?>
+<?/*PDO / sql_db	2022-12-19 19:39:13	79.103.25.181@alerts.smartiscity.gr (/index.php?)	 	connection open	SQLSTATE[HY000] [1045] Access denied for user 'sm_alerts_dbuser'@'localhost' (using password: YES)*/?>
+<?/*PDO / sql_db	2022-12-19 19:45:32	79.103.25.181@alerts.smartiscity.gr (/index.php?)	 	connection open	SQLSTATE[HY000] [1045] Access denied for user 'sm_alerts_dbuser'@'localhost' (using password: YES)*/?>
+<?/*PDO / sql_db	2022-12-19 19:48:26	79.103.25.181@alerts.smartiscity.gr (/index.php?)	 	connection open	SQLSTATE[HY000] [1045] Access denied for user 'sm_alerts_dbuser'@'localhost' (using password: YES)*/?>
+<?/*PDO / sql_db	2022-12-19 19:49:18	79.103.25.181@alerts.smartiscity.gr (/index.php?)	 	connection open	SQLSTATE[HY000] [1045] Access denied for user 'sm_alerts_dbuser'@'localhost' (using password: YES)*/?>
+<?/*PDO / sql_db	2022-12-19 19:52:13	79.103.25.181@alerts.smartiscity.gr (/index.php?)	 	connection open	SQLSTATE[HY000] [1045] Access denied for user 'sm_alerts_dbuser'@'localhost' (using password: YES)*/?>
+<?/*PDO / sql_db	2022-12-19 19:52:16	79.103.25.181@alerts.smartiscity.gr (/index.php?)	 	connection open	SQLSTATE[HY000] [1045] Access denied for user 'sm_alerts_dbuser'@'localhost' (using password: YES)*/?>
+<?/*PDO / sql_db	2022-12-19 19:52:22	79.103.25.181@alerts.smartiscity.gr (/index.php?)	 	connection open	SQLSTATE[HY000] [1045] Access denied for user 'sm_alerts_dbuser'@'localhost' (using password: YES)*/?>
+<?/*PDO / sql_db	2022-12-19 19:52:23	79.103.25.181@alerts.smartiscity.gr (/index.php?)	 	connection open	SQLSTATE[HY000] [1045] Access denied for user 'sm_alerts_dbuser'@'localhost' (using password: YES)*/?>
+<?/*PDO / sql_db	2022-12-19 19:52:24	79.103.25.181@alerts.smartiscity.gr (/index.php?)	 	connection open	SQLSTATE[HY000] [1045] Access denied for user 'sm_alerts_dbuser'@'localhost' (using password: YES)*/?>
+<?/*PDO / sql_db	2023-01-13 09:58:33	79.103.134.3@panel.wear4safe.gr (/index.php?)	 	connection open	SQLSTATE[HY000] [1044] Access denied for user 'panel.wear4safe_db_dbuser'@'%' to database 'panel.wear4safe_db'*/?>
+<?/*PDO / sql_db	2023-01-13 09:58:35	79.103.134.3@panel.wear4safe.gr (/index.php?)	 	connection open	SQLSTATE[HY000] [1044] Access denied for user 'panel.wear4safe_db_dbuser'@'%' to database 'panel.wear4safe_db'*/?>
+<?/*PDO / sql_db	2023-01-13 09:58:36	79.103.134.3@panel.wear4safe.gr (/index.php?)	 	connection open	SQLSTATE[HY000] [1044] Access denied for user 'panel.wear4safe_db_dbuser'@'%' to database 'panel.wear4safe_db'*/?>
+<?/*PDO / sql_db	2023-01-13 09:58:58	3.253.68.170@panel.wear4safe.gr (/index.php?)	 	connection open	SQLSTATE[HY000] [1044] Access denied for user 'panel.wear4safe_db_dbuser'@'%' to database 'panel.wear4safe_db'*/?>
+<?/*PDO / sql_db	2023-01-13 10:01:49	79.103.134.3@panel.wear4safe.gr (/index.php?)	 	connection open	SQLSTATE[HY000] [1044] Access denied for user 'panel.wear4safe_db_dbuser'@'%' to database 'panel.wear4safe_db'*/?>
